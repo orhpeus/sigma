@@ -175,6 +175,7 @@ https://attackerkb.com/topics/Bkij5kK1qK/cve-2022-21587/rapid7-analysis
 https://attackerkb.com/topics/SSTk336Tmf/cve-2024-3400/rapid7-analysis
 https://awakesecurity.com/blog/threat-hunting-for-paexec/
 https://awscli.amazonaws.com/v2/documentation/api/2.14.0/reference/account/enable-region.html
+https://awscli.amazonaws.com/v2/documentation/api/latest/reference/s3api/delete-bucket.html
 https://bad-jubies.github.io/RCE-NOW-WHAT/
 https://badoption.eu/blog/2023/01/31/code_c2.html
 https://bazaar.abuse.ch/browse/signature/RaspberryRobin/
@@ -248,6 +249,7 @@ https://blog.morphisec.com/vmware-identity-manager-attack-backdoor
 https://blog.netspi.com/15-ways-to-download-a-file/#bitsadmin
 https://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html
 https://blog.osarmor.com/319/onenote-attachment-delivers-asyncrat-malware/
+https://blog.palantir.com/tampering-with-windows-event-tracing-background-offense-and-defense-4be7ac62ac63
 https://blog.qualys.com/vulnerabilities-threat-research/2022/06/20/defending-against-scheduled-task-attacks-in-windows-environments
 https://blog.reconinfosec.com/emergence-of-akira-ransomware-group
 https://blog.redbluepurple.io/offensive-research/bypassing-injection-detection
@@ -458,6 +460,7 @@ https://docs.aws.amazon.com/AmazonS3/latest/API/API_PutBucketWebsite.html
 https://docs.aws.amazon.com/AmazonS3/latest/API/API_RestoreObject.html
 https://docs.aws.amazon.com/AmazonS3/latest/userguide/setting-repl-config-perm-overview.html
 https://docs.aws.amazon.com/awscloudtrail/latest/userguide/best-practices-security.html
+https://docs.aws.amazon.com/awscloudtrail/latest/userguide/cloudtrail-event-reference-aws-console-sign-in-events.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_DisableEbsEncryptionByDefault.html
 https://docs.aws.amazon.com/AWSEC2/latest/APIReference/API_ImportKeyPair.html
 https://docs.aws.amazon.com/cli/latest/reference/securityhub/
@@ -955,6 +958,7 @@ https://github.com/elastic/detection-rules/blob/c76a39796972ecde44cb1da6df47f1b6
 https://github.com/elastic/detection-rules/blob/da3852b681cf1a33898b1535892eab1f3a76177a/rules/integrations/azure/defense_evasion_kubernetes_events_deleted.toml
 https://github.com/elastic/detection-rules/blob/dd224fb3f81d0b4bf8593c5f02a029d647ba2b2d/rules/windows/credential_access_relay_ntlm_auth_via_http_spoolss.toml
 https://github.com/elastic/detection-rules/blob/fb6ee2c69864ffdfe347bf3b050cb931f53067a6/rules/windows/privilege_escalation_krbrelayup_suspicious_logon.toml
+https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/defense_evasion_guardduty_detector_deletion.toml
 https://github.com/elastic/detection-rules/blob/main/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/blob/v8.6.0/rules/integrations/aws/initial_access_via_system_manager.toml
 https://github.com/elastic/detection-rules/issues/1371
@@ -1304,6 +1308,7 @@ https://github.com/redcanaryco/atomic-red-team/blob/73fcfa1d4863f6a4e17f90e54401
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1505.005/T1505.005.md
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1547.015/T1547.015.md#atomic-test-1---persistence-by-modifying-windows-terminal-profile
 https://github.com/redcanaryco/atomic-red-team/blob/74438b0237d141ee9c99747976447dc884cb1a39/atomics/T1570/T1570.md
+https://github.com/redcanaryco/atomic-red-team/blob/75fa21076dcefa348a7521403cdd6bfc4e88623c/atomics/T1124/T1124.md
 https://github.com/redcanaryco/atomic-red-team/blob/7e11e9b79583545f208a6dc3fa062f2ed443d999/atomics/T1548.002/T1548.002.md
 https://github.com/redcanaryco/atomic-red-team/blob/84215139ee5127f8e3a117e063b604812bd71928/atomics/T1047/T1047.md#atomic-test-5---wmi-execute-local-process
 https://github.com/redcanaryco/atomic-red-team/blob/84d9edaaaa2c5511144521b0e4af726d1c7276ce/atomics/T1539/T1539.md#atomic-test-2---steal-chrome-cookies-windows
@@ -1728,6 +1733,7 @@ https://giuliocomi.blogspot.com/2019/10/abusing-windows-10-narrators-feedback.ht
 https://global.ptsecurity.com/analytics/pt-esc-threat-intelligence/darkhotel-a-cluster-of-groups-united-by-common-techniques
 https://go.recordedfuture.com/hubfs/reports/mtp-2021-0914.pdf
 https://goo.gl/PsqrhT
+https://goodworkaround.com/2022/02/15/digging-into-azure-ad-certificate-based-authentication/
 https://googleprojectzero.blogspot.com/2019/08/implant-teardown.html
 https://grafana.com/blog/2021/12/07/grafana-8.3.1-8.2.7-8.1.8-and-8.0.7-released-with-high-severity-security-fix/
 https://grep.app/search?q=winpwn&filter[repo][0]=redcanaryco/atomic-red-team
@@ -2703,6 +2709,7 @@ https://securelist.com/chafer-used-remexi-malware/89538/
 https://securelist.com/defttorero-tactics-techniques-and-procedures/107610/
 https://securelist.com/faq-the-projectsauron-apt/75533/
 https://securelist.com/fin7-5-the-infamous-cybercrime-rig-fin7-continues-its-activities/90703/
+https://securelist.com/forumtroll-apt-hacking-team-dante-spyware/117851/
 https://securelist.com/lazarus-covets-covid-19-related-intelligence/99906/
 https://securelist.com/lazarus-on-the-hunt-for-big-game/97757/
 https://securelist.com/locked-out/68960/
@@ -2800,6 +2807,7 @@ https://ssd-disclosure.com/ssd-advisory-common-log-file-system-clfs-driver-pe/
 https://stackoverflow.com/questions/20010199/how-to-determine-if-a-process-runs-inside-lxc-docker
 https://stackoverflow.com/questions/25892194/does-rails-come-with-a-not-authorized-exception
 https://stackoverflow.com/questions/42442320/ssh-tunnel-to-ngrok-and-initiate-rdp
+https://stackoverflow.com/questions/66011412/how-to-clear-a-event-log-in-powershell-7
 https://stealthbits.com/blog/extracting-password-hashes-from-the-ntds-dit-file/
 https://steemit.com/shadowbrokers/@theshadowbrokers/lost-in-translation
 https://steemit.com/utopian-io/@ah101/uac-bypassing-utility
@@ -3419,6 +3427,7 @@ https://us-cert.cisa.gov/ncas/analysis-reports/ar21-126a
 https://user-images.githubusercontent.com/61026070/136518004-b68cce7d-f9b8-4e9a-9b7b-53b1568a9a94.png
 https://uvnc.com/docs/uvnc-viewer/52-ultravnc-viewer-commandline-parameters.html
 https://vanmieghem.io/stealth-outlook-persistence/
+https://vipre.com/blog/svg-phishing-attacks-the-new-trick-in-the-cybercriminals-playbook/
 https://virtualizationreview.com/articles/2020/05/21/ssh-server-on-windows-10.aspx
 https://vitux.com/how-to-hide-confidential-files-in-images-on-debian-using-steganography/
 https://vk9-sec.com/hfs-code-execution-cve-2014-6287/
@@ -3480,6 +3489,7 @@ https://web.archive.org/web/20221026202428/https://gist.github.com/code-scrap/d7
 https://web.archive.org/web/20230208123920/https://cyberwardog.blogspot.com/2017/03/chronicles-of-threat-hunter-hunting-for_22.html
 https://web.archive.org/web/20230217071802/https://blooteem.com/march-2022
 https://web.archive.org/web/20230329153811/https://blog.menasec.net/2019/02/threat-huting-10-impacketsecretdump.html
+https://web.archive.org/web/20230329154538/https://blog.menasec.net/2019/07/interesting-difr-traces-of-net-clr.html
 https://web.archive.org/web/20230329155141/https://blog.menasec.net/2019/03/threat-hunting-26-remote-windows.html
 https://web.archive.org/web/20230329170326/https://blog.menasec.net/2019/02/threat-hunting-21-procdump-or-taskmgr.html
 https://web.archive.org/web/20230329171218/https://blog.menasec.net/2019/02/threat-hunting-3-detecting-psexec.html
@@ -3679,6 +3689,7 @@ https://www.elastic.co/security-labs/exploring-the-ref2731-intrusion-set
 https://www.elastic.co/security-labs/grimresource
 https://www.elastic.co/security-labs/Hunting-for-Suspicious-Windows-Libraries-for-Execution-and-Evasion
 https://www.elastic.co/security-labs/operation-bleeding-bear
+https://www.elastic.co/security-labs/primer-on-persistence-mechanisms
 https://www.elastic.co/security-labs/stopping-vulnerable-driver-attacks
 https://www.elevenforum.com/t/video-guide-how-to-completely-disable-microsoft-defender-antivirus.14608/page-2
 https://www.embercybersecurity.com/blog/cve-2019-1378-exploiting-an-access-control-privilege-escalation-vulnerability-in-windows-10-update-assistant-wua
@@ -3733,6 +3744,7 @@ https://www.gorillastack.com/blog/real-time-events/important-aws-cloudtrail-secu
 https://www.gov.pl/attachment/ee91f24d-3e67-436d-aa50-7fa56acf789d
 https://www.gpg4win.de/documentation.html
 https://www.gradenegger.eu/en/details-of-the-event-with-id-53-of-the-source-microsoft-windows-certificationauthority/
+https://www.group-ib.com/blog/cve-2023-38831-winrar-zero-day/
 https://www.group-ib.com/blog/hunting-for-ttps-with-prefetch-files/
 https://www.gteltsc.vn/blog/canh-bao-chien-dich-tan-cong-su-dung-lo-hong-zero-day-tren-microsoft-exchange-server-12714.html
 https://www.guidepointsecurity.com/blog/tunnel-vision-cloudflared-abused-in-the-wild/
@@ -3751,6 +3763,7 @@ https://www.huntress.com/blog/attacking-mssql-servers
 https://www.huntress.com/blog/confluence-to-cerber-exploitation-of-cve-2023-22518-for-ransomware-deployment
 https://www.huntress.com/blog/critical-vulnerabilities-in-papercut-print-management-software
 https://www.huntress.com/blog/curling-for-data-a-dive-into-a-threat-actors-malicious-ttps
+https://www.huntress.com/blog/exploitation-of-windows-server-update-services-remote-code-execution-vulnerability
 https://www.huntress.com/blog/moveit-transfer-critical-vulnerability-rapid-response
 https://www.huntress.com/blog/slashandgrab-screen-connect-post-exploitation-in-the-wild-cve-2024-1709-cve-2024-1708
 https://www.huntress.com/blog/the-unwanted-guest
@@ -3795,6 +3808,7 @@ https://www.ired.team/offensive-security/credential-access-and-credential-dumpin
 https://www.ired.team/offensive-security/defense-evasion/parent-process-id-ppid-spoofing
 https://www.ired.team/offensive-security/lateral-movement/t1076-rdp-hijacking-for-lateral-movement
 https://www.ired.team/offensive-security/persistence/t1128-netsh-helper-dll
+https://www.joesandbox.com/analysis/1467354/0/html
 https://www.joesandbox.com/analysis/411752/0/html#7048BB9A06B8F2DD9D24C77F389D7B2B58D2
 https://www.joesandbox.com/analysis/443736/0/html
 https://www.joesandbox.com/analysis/465533/0/html
@@ -4032,6 +4046,7 @@ https://www.sentinelone.com/labs/blackcat-ransomware-highly-configurable-rust-dr
 https://www.sentinelone.com/labs/hermetic-wiper-ukraine-under-attack/
 https://www.sentinelone.com/labs/inside-malicious-windows-apps-for-malware-deployment/
 https://www.sentinelone.com/labs/lockbit-ransomware-side-loads-cobalt-strike-beacon-with-legitimate-vmware-utility/
+https://www.sentinelone.com/labs/ranzy-ransomware-better-encryption-among-new-features-of-thunderx-derivative/
 https://www.sentinelone.com/labs/wading-through-muddy-waters-recent-activity-of-an-iranian-state-sponsored-threat-actor/
 https://www.sentinelone.com/labs/wip26-espionage-threat-actors-abuse-cloud-infrastructure-in-targeted-telco-attacks/
 https://www.sentinelone.com/wp-content/uploads/pdf-gen/1630910064/20-common-tools-techniques-used-by-macos-threat-actors-malware.pdf
